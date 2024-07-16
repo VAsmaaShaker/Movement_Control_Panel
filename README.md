@@ -3,8 +3,12 @@ A website interface has been created to control the robot's movement in four dir
 ![image](https://github.com/user-attachments/assets/86d4da67-c6d3-4cdc-9426-3d6ab99717ab)
 
 ## Tools Used:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="100" height="100" style="max-width: 100%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="100" height="100" style="max-width: 100%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="100" height="100" style="max-width: 100%;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="100" height="100" style="max-width: 100%;" /><img src="https://www.svgrepo.com/show/354575/xampp.svg" alt="CSS" width="100" height="100" style="max-width: 100%;" />
+<img src="https://www.svgrepo.com/show/354575/xampp.svg" alt="CSS" width="100" height="100" style="max-width: 100%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="100" height="100" style="max-width: 100%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="100" height="100" style="max-width: 100%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="100" height="100" style="max-width: 100%;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="100" height="100" style="max-width: 100%;" />
+<img src="https://www.svgrepo.com/show/354575/xampp.svg" alt="CSS" width="100" height="100" style="max-width: 100%;" />
 
 ## Task execution steps
 1. I downloaded XAMPP from the following link: [Download XAMPP](https://www.apachefriends.org/download.html).
