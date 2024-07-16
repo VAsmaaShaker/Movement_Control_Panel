@@ -12,7 +12,7 @@ A website interface has been created to control the robot's movement in four dir
 2. I started the XAMPP server by click "Start".
 ![image](https://github.com/user-attachments/assets/ce236b79-ea60-49c0-afa7-86669b9e71bc)
 
-3. I opened localhost/phpadmin and created a database"robot" with a table"robotmovement" inside, as shown in the following image.
+3. I opened [localhost/phpadmin](http://localhost/phpmyadmin/) and created a database"robot" with a table"robotmovement" inside, as shown in the following image.
 ![image](https://github.com/user-attachments/assets/4e5de6f4-f0d2-4c9f-9642-214e6e04f4de)
 
 4. I added two columns (id, direction) in the table to store direction values.
