@@ -29,11 +29,9 @@ A website interface has been created to control the robot's movement in four dir
 - styControl.css 
 ![image](https://github.com/user-attachments/assets/ebe1e16b-410c-455b-b0fe-f3dcbe47bb2b)
 
-Thus, I successfully created the web page and connected it to the database.✨
+Thus, I successfully created the webpage and connected it to the database. ✨
 
-After that, I opened the robot.html file, as depicted in the image.
-
-After clicking the "stop" , the press was successfully stored in the database.
+After that, I opened the robot.html file and clicked on "stop". The press was successfully stored in the database, as depicted in the image.
 
 ![image](https://github.com/user-attachments/assets/92dcf8e2-39e4-4868-a6e4-5f6c9ae8d894)
 ![image](https://github.com/user-attachments/assets/638112fc-8773-45a2-ada1-5c86d20a1ffe)
