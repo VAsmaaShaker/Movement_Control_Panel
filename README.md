@@ -3,8 +3,7 @@ A website interface has been created to control the robot's movement in four dir
 ![image](https://github.com/user-attachments/assets/86d4da67-c6d3-4cdc-9426-3d6ab99717ab)
 
 ## Tools Used:
-![PHP](![image](https://github.com/user-attachments/assets/bcb677fc-974f-4bd3-a444-9aab4539aa67)
-)
+(![image](https://github.com/user-attachments/assets/bcb677fc-974f-4bd3-a444-9aab4539aa67)
 
 ## Task execution steps
 1. I downloaded XAMPP from the following link: [Download XAMPP](https://www.apachefriends.org/download.html).
