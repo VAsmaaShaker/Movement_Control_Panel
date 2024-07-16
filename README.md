@@ -3,7 +3,7 @@ A website interface has been created to control the robot's movement in four dir
 ![image](https://github.com/user-attachments/assets/86d4da67-c6d3-4cdc-9426-3d6ab99717ab)
 
 ## Tools Used:
-<img src="https://commons.wikimedia.org/wiki/File:CSS3_logo.svg" alt="CSS" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 ## Task execution steps
 1. I downloaded XAMPP from the following link: [Download XAMPP](https://www.apachefriends.org/download.html).
