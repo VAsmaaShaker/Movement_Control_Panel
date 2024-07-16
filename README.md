@@ -38,4 +38,4 @@ After clicking the "stop" , the press was successfully stored in the database.
 ------------------------------------------------------------------------
 **Test for all directions:**
 ![image](https://github.com/user-attachments/assets/9c619198-6643-4903-a01b-ab7c861cf198)
-![image](https://github.com/user-attachments/assets/7a301628-3d62-4c1d-a16c-d8245dc4f092)
+![image](https://github.com/user-attachments/assets/b2e7aa5e-53ed-4d46-811d-1765435e9118)
