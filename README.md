@@ -32,6 +32,7 @@ A website interface has been created to control the robot's movement in four dir
 Thus, I successfully created the web page and connected it to the database.✨
 
 After that, I opened the robot.html file, as depicted in the image.
+
 After clicking the "stop" , the press was successfully stored in the database.
 
 ![image](https://github.com/user-attachments/assets/92dcf8e2-39e4-4868-a6e4-5f6c9ae8d894)
