@@ -1,0 +1,100 @@
+body {
+    background: #100a1c;
+    background-image:
+      radial-gradient(50% 30% ellipse at center top, #201e40 0%, rgba(0,0,0,0) 100%),
+      radial-gradient(60% 50% ellipse at center bottom, #261226 0%, #100a1c 100%);
+    background-attachment: fixed;
+    color: #e9eff1;
+    font: 300 18px/1.6 "Source Sans Pro", sans-serif;
+    margin: 0;
+    padding: 5em 0 2em;
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  h1 {
+    font-weight: 300;
+    margin: 0;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%; 
+  }
+  
+  .buttons-container {
+    position: relative;
+    margin-top: 2em;
+    width: 15em;
+    height: 15em;
+  }
+  
+  .button {
+    position: absolute;
+    cursor: pointer;
+    background-color: #2b265a47;
+    color: #e7edf0;
+    border: none;
+    border-radius: 50%;
+    text-decoration: none;
+    transition: background-color 0.3s;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    text-align: center;
+    line-height: 100px;
+  }
+  
+  .button.stop 
+  {
+    background-color: #90605d;
+    color: #0f081c;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  }
+   
+  .button.forward {
+    top: 4%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .button.left {
+    top: 50%;
+    left: 4%;
+    transform: translateY(-50%);
+  }
+  
+  .button.right {
+    top: 50%;
+    right: 4%;
+    transform: translateY(-50%);
+  }
+  
+  .button.backward {
+    bottom: 4%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+.button.stop:hover {
+    background-color: #973f3a;
+  }
+  
+.button.forward:hover,
+.button.backward:hover,
+.button.left:hover,
+.button.right:hover {
+  background-color: #86708d47;
+}
