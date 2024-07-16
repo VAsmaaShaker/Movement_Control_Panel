@@ -1,5 +1,5 @@
 # Movement_Control_Panel
-A website interface has been created to control the robot's movement in four directions (forward, backward, right, left) and stop, and link it to a database for storing these commands.
+A website interface has been created to control the robot's movement in four directions (Forward, Backward, Right, Left) and Stop, and link it to a database for storing these commands.
 ![image](https://github.com/user-attachments/assets/86d4da67-c6d3-4cdc-9426-3d6ab99717ab)
 
 ## Tools Used:
